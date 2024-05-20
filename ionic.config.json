@@ -1,0 +1,8 @@
+{
+  "name": "FoodLite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "b187005b"
+}
